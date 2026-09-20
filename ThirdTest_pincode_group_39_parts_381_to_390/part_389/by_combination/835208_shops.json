@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Chicken Shop",
+    "search_category": "Shops",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop",
+    "pincode": "835208",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Ranchi Division",
+    "major_offices": "Ghaghra SO, Arangi BO, Belagara BO",
+    "phone_number": "+91 63820 12945",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kudu-Gumla Rd, Road, Andhradih, Ghaghra, Gumla, Jharkhand 835208",
+    "area": "Andhradih",
+    "latitude": 23.2258869,
+    "longitude": 84.53867679999999,
+    "place_id": "ChIJa1MJfmHhijkRn5Fou61xEEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1MJfmHhijkRn5Fou61xEEw",
+    "part_id": "part_389",
+    "crawled_at": "2026-09-20 20:46:37"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Indian Carpool",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Car rental agency, Carpooling location, Taxi service",
+    "pincode": "835222",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Ranchi Division",
+    "major_offices": "Ratu SO, Bijjulia BO, Chipra BO",
+    "phone_number": "+91 93410 52236",
+    "website": "https://www.indiancarpool.in/",
+    "rating": 5,
+    "reviews_count": 96,
+    "address": "N.H Colony, Iqra Colony, Mango, Jamshedpur, Jharkhand 831020",
+    "area": "N.H Colony, Iqra Colony, Mango",
+    "latitude": 22.8421156,
+    "longitude": 86.2043758,
+    "place_id": "ChIJpynFEJNhgQIRsfyUw347its",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpynFEJNhgQIRsfyUw347its",
+    "part_id": "part_389",
+    "crawled_at": "2026-09-20 20:56:03"
+  }
+]

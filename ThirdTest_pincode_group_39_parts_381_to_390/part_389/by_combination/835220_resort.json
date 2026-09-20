@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Royal dhaba",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "835220",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Ranchi Division",
+    "major_offices": "Palkot SO, Armai BO, Baghima BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VRCX+XFC, Tirra, Basia, Jharkhand 835229",
+    "area": "835220",
+    "latitude": 22.8724317,
+    "longitude": 84.8486405,
+    "place_id": "ChIJX4ahBwC3ijkRae4j7rT-UsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX4ahBwC3ijkRae4j7rT-UsA",
+    "part_id": "part_389",
+    "crawled_at": "2026-09-20 20:54:48"
+  }
+]
