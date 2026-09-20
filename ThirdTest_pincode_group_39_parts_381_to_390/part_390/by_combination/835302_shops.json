@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Anup store",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "835302",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Ranchi Division",
+    "major_offices": "Lohardaga SO, Arkosa BO, Arru BO",
+    "phone_number": "+91 94317 65183",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main Rd, Gudri Bazar, Lohardaga, Jharkhand 835302",
+    "area": "Gudri Bazar",
+    "latitude": 23.4327737,
+    "longitude": 84.67979849999999,
+    "place_id": "ChIJvWbbEEEjizkRrJs3cqR7T-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvWbbEEEjizkRrJs3cqR7T-0",
+    "part_id": "part_390",
+    "crawled_at": "2026-09-20 20:31:41"
+  }
+]
