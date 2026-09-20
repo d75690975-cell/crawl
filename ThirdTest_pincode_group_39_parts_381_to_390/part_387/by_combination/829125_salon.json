@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Tanya Beauty Parlor",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "829125",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "major_offices": "Sayal SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M8RC+23P, Sayal, Jharkhand 829125",
+    "area": "829125",
+    "latitude": 23.6900783,
+    "longitude": 85.32019009999999,
+    "place_id": "ChIJi1pGpv_r9DkRZkHL4AlL9V8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi1pGpv_r9DkRZkHL4AlL9V8",
+    "part_id": "part_387",
+    "crawled_at": "2026-09-20 20:31:01"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Dangi Store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "829126",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "major_offices": "Sounda C SO",
+    "phone_number": "+91 88899 67249",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Thana Chowk, Ramgarh Cantonment, Jharkhand 829122",
+    "area": "829126",
+    "latitude": 23.636383799999997,
+    "longitude": 85.5122049,
+    "place_id": "ChIJX7N2R_fz9DkRmF2g2bYPS8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7N2R_fz9DkRmF2g2bYPS8w",
+    "part_id": "part_387",
+    "crawled_at": "2026-09-20 20:31:20"
+  }
+]

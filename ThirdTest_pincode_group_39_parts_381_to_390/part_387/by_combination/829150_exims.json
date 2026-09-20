@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Hello Point",
+    "search_category": "EXIMS",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "829150",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "major_offices": "Honhey BO, Sandi BO, Sikani BO",
+    "phone_number": "+91 92636 12426",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Rmgharh, Bijulia, Deoghar, Jharkhand 829122",
+    "area": "Bijulia",
+    "latitude": 23.619232399999998,
+    "longitude": 85.5197158,
+    "place_id": "ChIJv4Cdeufz9DkRrR-z3LWekC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4Cdeufz9DkRrR-z3LWekC8",
+    "part_id": "part_387",
+    "crawled_at": "2026-09-20 20:39:31"
+  }
+]

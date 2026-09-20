@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Hotel Pine Valley",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "829203",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Palamau Division",
+    "major_offices": "Chandwa SO, Aan BO, Bari BO",
+    "phone_number": "+91 94713 20224",
+    "website": "https://hotelpinevalley.in/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Thana Rd, Netarhat, Birjiatoli, Jharkhand 835218",
+    "area": "829203",
+    "latitude": 23.473312399999998,
+    "longitude": 84.2727401,
+    "place_id": "ChIJTVYBWtgJizkRlsV4qynFmqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVYBWtgJizkRlsV4qynFmqw",
+    "part_id": "part_387",
+    "crawled_at": "2026-09-20 20:41:02"
+  }
+]

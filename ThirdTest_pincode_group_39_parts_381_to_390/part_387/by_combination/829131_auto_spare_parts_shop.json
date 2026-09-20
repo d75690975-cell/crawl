@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Royal Auto Emporium",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "829131",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "major_offices": "Src SO",
+    "phone_number": "+91 98301 76836",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 26,
+    "address": "163, Karaya Road, Karaya Road, Kolkata, West Bengal 700017",
+    "area": "Park Circus, Park Street area",
+    "latitude": 22.54592,
+    "longitude": 88.3619938,
+    "place_id": "ChIJ77xff992AjoR-K1F_misuSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ77xff992AjoR-K1F_misuSs",
+    "part_id": "part_387",
+    "crawled_at": "2026-09-20 20:34:30"
+  }
+]

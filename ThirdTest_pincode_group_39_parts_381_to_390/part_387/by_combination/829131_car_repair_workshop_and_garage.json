@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Capital Autozone",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto painting, Car wash",
+    "pincode": "829131",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "major_offices": "Src SO",
+    "phone_number": "+91 96012 93600",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Sargasan, Gandhinagar, Gujarat 382419",
+    "area": "Sargasan",
+    "latitude": 23.1904668,
+    "longitude": 72.6096477,
+    "place_id": "ChIJj85qaPspXDkRI5HXFijBEf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj85qaPspXDkRI5HXFijBEf0",
+    "part_id": "part_387",
+    "crawled_at": "2026-09-20 20:34:28"
+  }
+]

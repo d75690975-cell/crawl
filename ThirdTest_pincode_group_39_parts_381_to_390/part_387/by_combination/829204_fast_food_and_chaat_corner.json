@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "fastfood",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "829204",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Palamau Division",
+    "major_offices": "Chhipadohar SO, Baresandh BO, Chungru BO",
+    "phone_number": "+91 95892 22693",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "chowk, Nawada, Herhanj, Jharkhand 829202",
+    "area": "chowk",
+    "latitude": 23.898617299999998,
+    "longitude": 84.61065889999999,
+    "place_id": "ChIJLTLAIF5dizkR_Xkt9TapWxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLTLAIF5dizkR_Xkt9TapWxw",
+    "part_id": "part_387",
+    "crawled_at": "2026-09-20 20:41:19"
+  }
+]

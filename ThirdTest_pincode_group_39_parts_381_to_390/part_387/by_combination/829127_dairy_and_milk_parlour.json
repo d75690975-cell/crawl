@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Milk dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy farm",
+    "all_categories": "Dairy farm",
+    "pincode": "829127",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "major_offices": "Sunday Bazar SO, Bedkaro BO, Kurpania B.O",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Matigara, Jharkhand 828307",
+    "area": "829127",
+    "latitude": 23.7804131,
+    "longitude": 86.1876908,
+    "place_id": "ChIJYzcpT68f9DkR3swfetAo9DM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYzcpT68f9DkR3swfetAo9DM",
+    "part_id": "part_387",
+    "crawled_at": "2026-09-20 20:31:54"
+  }
+]

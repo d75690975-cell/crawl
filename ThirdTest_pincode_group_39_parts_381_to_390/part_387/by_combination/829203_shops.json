@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Anjali Store",
+    "search_category": "Shops",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "829203",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Palamau Division",
+    "major_offices": "Chandwa SO, Aan BO, Bari BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "near CRPF Camp, Turhamu, Chandwa, Jharkhand 829203",
+    "area": "829203",
+    "latitude": 23.6727542,
+    "longitude": 84.7318162,
+    "place_id": "ChIJ9yi4h805izkRdGVNhtIECzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9yi4h805izkRdGVNhtIECzQ",
+    "part_id": "part_387",
+    "crawled_at": "2026-09-20 20:41:13"
+  }
+]
