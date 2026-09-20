@@ -1846,5 +1846,29 @@
     "part_id": "part_382",
     "crawled_at": "2026-09-20 20:52:11",
     "s_no": 74325
+  },
+  {
+    "business_name": "Shree Vinayak Family Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "822113",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Palamau Division",
+    "major_offices": "Chhatarpur SO, Babhandih BO, Bishunpur BO",
+    "phone_number": "+91 79034 80913",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 274,
+    "address": "Chatra, Jharkhand 825401",
+    "area": "822113",
+    "latitude": 24.2063903,
+    "longitude": 84.88722849999999,
+    "place_id": "ChIJhUcOJLWtjDkRFS4ubv632xo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhUcOJLWtjDkRFS4ubv632xo",
+    "part_id": "part_382",
+    "crawled_at": "2026-09-20 20:53:50",
+    "s_no": 76177
   }
 ]

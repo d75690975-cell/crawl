@@ -4534,5 +4534,29 @@
     "part_id": "part_382",
     "crawled_at": "2026-09-20 20:50:41",
     "s_no": 71286
+  },
+  {
+    "business_name": "Nyayartha Tax and Legal Consultancy",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Tax attorney",
+    "all_categories": "Tax attorney",
+    "pincode": "822113",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Palamau Division",
+    "major_offices": "Chhatarpur SO, Babhandih BO, Bishunpur BO",
+    "phone_number": "+91 76350 79777",
+    "website": "https://www.nyayartha.in/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "2ND FLOOR, H.NO-175, opposite ASTHA HOSPITAL, Harmu Housing Colony, Argora, Ranchi, Jharkhand 834002",
+    "area": "Harmu Housing Colony, Argora",
+    "latitude": 23.3617518,
+    "longitude": 85.3116849,
+    "place_id": "ChIJpSkQO4Hh9DkR-ceR7U_6-24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSkQO4Hh9DkR-ceR7U_6-24",
+    "part_id": "part_382",
+    "crawled_at": "2026-09-20 20:54:14",
+    "s_no": 77198
   }
 ]

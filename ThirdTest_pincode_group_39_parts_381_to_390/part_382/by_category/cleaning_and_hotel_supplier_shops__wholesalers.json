@@ -1102,5 +1102,29 @@
     "part_id": "part_382",
     "crawled_at": "2026-09-20 20:50:34",
     "s_no": 71101
+  },
+  {
+    "business_name": "Washmart - Garwha",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner, Carpet cleaning service, Cleaning Services, Laundry service",
+    "pincode": "822112",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Palamau Division",
+    "major_offices": "Bhawnathpur SO, Amrora BO, Arangi BO",
+    "phone_number": "+91 72177 97548",
+    "website": "https://washmart.in/laundry-and-dry-cleaning-services-in-garhwa/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sanatan Hardware store, Sonpurwa, Garhwa, Jharkhand 822114",
+    "area": "Sonpurwa",
+    "latitude": 24.169615399999998,
+    "longitude": 83.81245899999999,
+    "place_id": "ChIJx269QTkPjDkR54ZhDAw7HZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx269QTkPjDkR54ZhDAw7HZ8",
+    "part_id": "part_382",
+    "crawled_at": "2026-09-20 20:52:29",
+    "s_no": 75370
   }
 ]

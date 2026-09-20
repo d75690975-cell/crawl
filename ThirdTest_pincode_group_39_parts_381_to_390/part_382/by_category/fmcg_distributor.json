@@ -2926,5 +2926,29 @@
     "part_id": "part_382",
     "crawled_at": "2026-09-20 20:52:09",
     "s_no": 74187
+  },
+  {
+    "business_name": "Babhandih, Jharkhand 822113",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "822113",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Palamau Division",
+    "major_offices": "Chhatarpur SO, Babhandih BO, Bishunpur BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Babhandih, Jharkhand",
+    "area": "822113",
+    "latitude": 24.2755272,
+    "longitude": 84.3121264,
+    "place_id": "ChIJregGT4yJjDkRqhDKuDj_AEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJregGT4yJjDkRqhDKuDj_AEM",
+    "part_id": "part_382",
+    "crawled_at": "2026-09-20 20:53:47",
+    "s_no": 76074
   }
 ]
