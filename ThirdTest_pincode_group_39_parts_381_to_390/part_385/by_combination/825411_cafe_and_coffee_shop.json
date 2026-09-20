@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "The Coffee Lounge",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "825411",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "major_offices": "Sankul BOc, Padma SO, Dadighaghar BO",
+    "phone_number": "+91 79799 61978",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ravindra Path, Mission Hospital Road, Chisti Nagar, Hazaribagh, Jharkhand 825301",
+    "area": "Chisti Nagar",
+    "latitude": 23.9871011,
+    "longitude": 85.36175449999999,
+    "place_id": "ChIJfVs4krmd9DkRGN7FDsb7aNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfVs4krmd9DkRGN7FDsb7aNc",
+    "part_id": "part_385",
+    "crawled_at": "2026-09-20 20:27:41"
+  }
+]

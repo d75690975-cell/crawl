@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Vishal Bakery",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Bakery and Cake Shop",
+    "pincode": "825405",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "major_offices": "Barhi SO Hazaribag, Deochanda BO, Gouriakarma BO",
+    "phone_number": "+91 99556 56737",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "Main Road, Ichak, Khatri Mohalla, Dharmu, Jharkhand 825402",
+    "area": "Ichak, Khatri Mohalla",
+    "latitude": 24.0904647,
+    "longitude": 85.423867,
+    "place_id": "ChIJbUYoIvpj8zkRVXSVdU8yAfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbUYoIvpj8zkRVXSVdU8yAfE",
+    "part_id": "part_385",
+    "crawled_at": "2026-09-20 20:23:50"
+  }
+]
