@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Munna Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Dhaba, Fast food restaurant, Indian restaurant",
+    "pincode": "825413",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "major_offices": "Gurio BO, Telaiya Dam SO, Kolhaukala BO",
+    "phone_number": "+91 76678 65937",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Uma nath mandir, Karma, Jhumri Telaiya, Jharkhand 825409",
+    "area": "825413",
+    "latitude": 24.4445028,
+    "longitude": 85.5502139,
+    "place_id": "ChIJb09XJ2V18zkRRBrtmxZVSwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb09XJ2V18zkRRBrtmxZVSwk",
+    "part_id": "part_385",
+    "crawled_at": "2026-09-20 20:29:17"
+  }
+]
