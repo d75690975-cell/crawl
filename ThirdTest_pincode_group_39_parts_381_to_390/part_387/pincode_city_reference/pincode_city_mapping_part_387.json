@@ -1,0 +1,671 @@
+{
+  "829104": {
+    "pincode": "829104",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "offices": [
+      "Bermo SO",
+      "Amlo BO"
+    ]
+  },
+  "829105": {
+    "pincode": "829105",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "offices": [
+      "Bhadaninagar SO",
+      "Lapanga Colliery BO",
+      "Pali BO",
+      "Sanki BO"
+    ]
+  },
+  "829106": {
+    "pincode": "829106",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "offices": [
+      "Bhurkunda Bazar SO",
+      "Deoria Bargaon BO",
+      "Jawaharnagar BO",
+      "Sundernagar BO"
+    ]
+  },
+  "829107": {
+    "pincode": "829107",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "offices": [
+      "Bokaro Thermal SO",
+      "Guniato BO",
+      "Kanjkiro BO",
+      "Narayanpur BO",
+      "Armo B.O"
+    ]
+  },
+  "829108": {
+    "pincode": "829108",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "offices": [
+      "Giddi A SO"
+    ]
+  },
+  "829109": {
+    "pincode": "829109",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "offices": [
+      "Giddi C SO",
+      "Dari BO"
+    ]
+  },
+  "829110": {
+    "pincode": "829110",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "offices": [
+      "Gola SO Ramgarh",
+      "Banda BO",
+      "Bariatu BO",
+      "Barlanga BO",
+      "Betulkala BO",
+      "Chari BO",
+      "Hesapora BO",
+      "Korrambey BO",
+      "Kumhardaga BO",
+      "Maganpur BO",
+      "Murpa BO",
+      "Sangrampur BO",
+      "Saram BO",
+      "Sondimra BO",
+      "Sosokala BO",
+      "Sutari BO",
+      "Toiyar BO",
+      "Saradih BO"
+    ]
+  },
+  "829111": {
+    "pincode": "829111",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "offices": [
+      "Gomia SO",
+      "Hardiamo BO",
+      "Hossir BO",
+      "Saram BO",
+      "Siyari B.O"
+    ]
+  },
+  "829112": {
+    "pincode": "829112",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "offices": [
+      "IEGomia SO",
+      "Barkipunu BO",
+      "Dania BO",
+      "Kharki BO",
+      "Nerki BO",
+      "Penk BO",
+      "Khanbhra B.O"
+    ]
+  },
+  "829113": {
+    "pincode": "829113",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "offices": [
+      "Jarangdih Colliery SO",
+      "Khetko BO"
+    ]
+  },
+  "829114": {
+    "pincode": "829114",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "offices": [
+      "Jaridih Bazar SO",
+      "Chalkari BO"
+    ]
+  },
+  "829115": {
+    "pincode": "829115",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Dhanbad Division",
+    "offices": [
+      "Garri BO"
+    ]
+  },
+  "829116": {
+    "pincode": "829116",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "offices": [
+      "Kathara SO"
+    ]
+  },
+  "829117": {
+    "pincode": "829117",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "offices": [
+      "Bharechnagar BO",
+      "Digwar BO",
+      "Kander BO",
+      "Karma BO",
+      "Marar SO"
+    ]
+  },
+  "829118": {
+    "pincode": "829118",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "offices": [
+      "Jainagar BO",
+      "Patratu Diesel Colony ND BO",
+      "Terpa BO",
+      "Patratu SO"
+    ]
+  },
+  "829119": {
+    "pincode": "829119",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "offices": [
+      "Hafua BO",
+      "Hariharpur BO",
+      "Koto BO",
+      "Palani BO",
+      "Talatand BO",
+      "Patratu TPS SO"
+    ]
+  },
+  "829121": {
+    "pincode": "829121",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "offices": [
+      "Peterbar SO",
+      "Arjuwa BO",
+      "Chandipur BO",
+      "Chargi BO",
+      "Dantoo BO",
+      "Mirzapur BO",
+      "Mungasarla BO",
+      "Ordana BO",
+      "Rohar BO",
+      "Uttasara BO"
+    ]
+  },
+  "829122": {
+    "pincode": "829122",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "offices": [
+      "Ramgarh Cantt HO",
+      "Ramgarh SO Ramgarh"
+    ]
+  },
+  "829123": {
+    "pincode": "829123",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "offices": [
+      "Right Bank Tenughat SO",
+      "Champi BO",
+      "Ulgada BO"
+    ]
+  },
+  "829125": {
+    "pincode": "829125",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "offices": [
+      "Sayal SO"
+    ]
+  },
+  "829126": {
+    "pincode": "829126",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "offices": [
+      "Sounda C SO"
+    ]
+  },
+  "829127": {
+    "pincode": "829127",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "offices": [
+      "Sunday Bazar SO",
+      "Bedkaro BO",
+      "Kurpania B.O"
+    ]
+  },
+  "829128": {
+    "pincode": "829128",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "offices": [
+      "Swang Colliery SO",
+      "Hazari BO"
+    ]
+  },
+  "829129": {
+    "pincode": "829129",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "offices": [
+      "Tenughat Dam SO",
+      "Religarha SO"
+    ]
+  },
+  "829130": {
+    "pincode": "829130",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "offices": [
+      "Prc SO"
+    ]
+  },
+  "829131": {
+    "pincode": "829131",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "offices": [
+      "Src SO"
+    ]
+  },
+  "829132": {
+    "pincode": "829132",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "offices": [
+      "Bhandaridah SO",
+      "Gunjardih BO",
+      "Turio BO"
+    ]
+  },
+  "829133": {
+    "pincode": "829133",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "offices": [
+      "Souda Basti BO",
+      "Sounda D SO"
+    ]
+  },
+  "829134": {
+    "pincode": "829134",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "offices": [
+      "Bargaon BO",
+      "Chainpur BO",
+      "Mahuatand BO",
+      "Tirla BO",
+      "Arakanta BO",
+      "Sarubera SO"
+    ]
+  },
+  "829135": {
+    "pincode": "829135",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "offices": [
+      "Bhurkunda SO"
+    ]
+  },
+  "829143": {
+    "pincode": "829143",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "offices": [
+      "Balkudra SO",
+      "Gegda BO",
+      "Bicha BO"
+    ]
+  },
+  "829144": {
+    "pincode": "829144",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "offices": [
+      "Phusro Bazar SO",
+      "Argamo BO",
+      "Birni BO",
+      "Chapri BO",
+      "Chirudih BO",
+      "Makoli BO",
+      "Nawadih BO",
+      "Pichari BO",
+      "Potso BO",
+      "Surhi BO",
+      "Tantri BO"
+    ]
+  },
+  "829149": {
+    "pincode": "829149",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "offices": [
+      "TTPSLalpania SO"
+    ]
+  },
+  "829150": {
+    "pincode": "829150",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "offices": [
+      "Honhey BO",
+      "Sandi BO",
+      "Sikani BO",
+      "Bhuchungdih BO",
+      "Marangmarcha BO",
+      "Ramgarh Project SO"
+    ]
+  },
+  "829201": {
+    "pincode": "829201",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Palamau Division",
+    "offices": [
+      "Bachra SO",
+      "Bundu BO",
+      "Bachra North B.O"
+    ]
+  },
+  "829202": {
+    "pincode": "829202",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Palamau Division",
+    "offices": [
+      "Balumath SO",
+      "Dahunawada BO",
+      "Balubhang BO",
+      "Besra BO",
+      "Chedra BO",
+      "Chiru BO",
+      "Darha BO",
+      "Ganeshpur BO",
+      "Garhgoma BO",
+      "Herhanj BO",
+      "Holong BO",
+      "Ichak BO",
+      "Jhabar BO",
+      "Marang Loiya BO",
+      "Murupa BO",
+      "Phulsu BO",
+      "Seregara BO",
+      "Serendag BO",
+      "Sibla BO",
+      "Amarwadih B.O",
+      "Basiya B.O",
+      "Bhagya B.O",
+      "Chetag  B.O",
+      "Latu B.O",
+      "Rajwar B.O",
+      "Salaiya B.O",
+      "Salve B.O",
+      "Tasu B.O",
+      "Toti B.O"
+    ]
+  },
+  "829203": {
+    "pincode": "829203",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Palamau Division",
+    "offices": [
+      "Chandwa SO",
+      "Aan BO",
+      "Bari BO",
+      "Bhaisadon BO",
+      "Chakla BO",
+      "Damodar BO",
+      "Hutap BO",
+      "Kamta BO",
+      "Malhan BO",
+      "Roll BO",
+      "Sasang BO",
+      "Serak BO",
+      "Alaudia B.O",
+      "Banhardi B.O",
+      "Barwatoli B.O",
+      "Boda B.O",
+      "Chetar B.O",
+      "Dadhu B.O",
+      "Jamira B.O",
+      "Ladhup B.O"
+    ]
+  },
+  "829204": {
+    "pincode": "829204",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Palamau Division",
+    "offices": [
+      "Chhipadohar SO",
+      "Baresandh BO",
+      "Chungru BO",
+      "Garu BO",
+      "Karwai BO",
+      "Kerh BO",
+      "Kottam BO",
+      "Kumandih BO",
+      "Lat BO",
+      "Mundu BO",
+      "Rud B.O",
+      "Barkadih B.O",
+      "Kuchila B.O",
+      "Ukamar B.O"
+    ]
+  },
+  "829205": {
+    "pincode": "829205",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Palamau Division",
+    "offices": [
+      "Khalari SO",
+      "Chama BO",
+      "Diwan Nagar BO",
+      "Tumang B.O",
+      "Bishrampur B.O",
+      "Bukbuka B.O",
+      "Churi South B.O",
+      "Hutap B.O",
+      "Mayapur B.O"
+    ]
+  },
+  "829206": {
+    "pincode": "829206",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Palamau Division",
+    "offices": [
+      "Latehar Hsgii SO",
+      "Balu BO",
+      "Bariyatu Jagir BO",
+      "Hethpochra BO",
+      "Jalim BO",
+      "Kaima BO",
+      "Kura BO",
+      "Mongor BO",
+      "Murup BO",
+      "Pandeypura BO",
+      "Temki BO",
+      "Udaipura BO",
+      "Dihi B.O",
+      "Nawari B.O",
+      "Sasang B.O"
+    ]
+  },
+  "829207": {
+    "pincode": "829207",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Palamau Division",
+    "offices": [
+      "Latehar Rsso SO",
+      "Demu BO",
+      "Labarpur BO",
+      "Ledhpa BO",
+      "Makka BO",
+      "Nawagarh BO",
+      "Richughuta BO",
+      "Sarju BO",
+      "Dhankara B.O",
+      "Ganeshpur B.O",
+      "Parsahi B.O",
+      "Sishi B.O",
+      "Tarwadih B.O"
+    ]
+  },
+  "829208": {
+    "pincode": "829208",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Palamau Division",
+    "offices": [
+      "Mc Cluskiganj SO",
+      "Nawadih BO",
+      "Nindra BO",
+      "Lapra B.O"
+    ]
+  },
+  "829209": {
+    "pincode": "829209",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Palamau Division",
+    "offices": [
+      "Ray SO",
+      "Hindgir BO",
+      "Bamne B.O",
+      "Churi East B.O",
+      "Churi North B.O",
+      "Patal B.O"
+    ]
+  },
+  "829210": {
+    "pincode": "829210",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Palamau Division",
+    "offices": [
+      "Dakra Colliery SO",
+      "Churi Madhay B.O"
+    ]
+  },
+  "829301": {
+    "pincode": "829301",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Dhanbad Division",
+    "offices": [
+      "Jaina SO",
+      "Arajoo BO",
+      "Bahadurpur BO",
+      "Bandhdih BO",
+      "Baroo BO",
+      "Chando BO",
+      "Chilgada BO",
+      "Gangjori BO",
+      "Pathuria BO"
+    ]
+  },
+  "831001": {
+    "pincode": "831001",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Singhbhum Division",
+    "offices": [
+      "Jamshedpur HO",
+      "Bistupur Bazar SO",
+      "CoOp  College BO",
+      "Sakchi Court SO",
+      "Sakchi SO",
+      "Civil Court SO"
+    ]
+  },
+  "831002": {
+    "pincode": "831002",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Singhbhum Division",
+    "offices": [
+      "BKutung BO",
+      "Bagbera BO",
+      "Bara Deoli BO",
+      "Bhalki BO",
+      "Chakri BO",
+      "Dudra BO",
+      "Govindpur BO",
+      "Haludbani BO",
+      "Haludpukur BO",
+      "Harhargutu BO",
+      "Itagarh BO",
+      "Jumal BO",
+      "Juri BO",
+      "Karandih BO",
+      "Khairpal BO",
+      "Kitadih BO",
+      "Kowali BO",
+      "Narda BO",
+      "Potka BO",
+      "Rajnagar BO",
+      "Rasun Chopa BO",
+      "Rola BO",
+      "Sangrain BO",
+      "Sarjamda BO",
+      "Tangrain BO",
+      "Tatanagar SO"
+    ]
+  },
+  "831003": {
+    "pincode": "831003",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Singhbhum Division",
+    "offices": [
+      "Golmuri SO"
+    ]
+  }
+}

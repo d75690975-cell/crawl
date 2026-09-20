@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "829116",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "major_offices": "Kathara SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "City Centre, Sec 4 A, Sector 4, Bokaro Steel City, Jharkhand 827004",
+    "area": "Sector 4",
+    "latitude": 23.6660267,
+    "longitude": 86.1465478,
+    "place_id": "ChIJ2ai6Whwj9DkRQqy-fxrRwH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ai6Whwj9DkRQqy-fxrRwH8",
+    "part_id": "part_387",
+    "crawled_at": "2026-09-20 20:26:38"
+  }
+]

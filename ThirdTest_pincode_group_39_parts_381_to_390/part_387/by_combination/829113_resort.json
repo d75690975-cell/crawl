@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Munna hotel",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "829113",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "major_offices": "Jarangdih Colliery SO, Khetko BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "QV2F+P6F, Kathara, Jharkhand 829116",
+    "area": "829113",
+    "latitude": 23.7522163,
+    "longitude": 85.8740974,
+    "place_id": "ChIJ99gDDABr9DkRNfHD8q7PLHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99gDDABr9DkRNfHD8q7PLHk",
+    "part_id": "part_387",
+    "crawled_at": "2026-09-20 20:25:06"
+  }
+]

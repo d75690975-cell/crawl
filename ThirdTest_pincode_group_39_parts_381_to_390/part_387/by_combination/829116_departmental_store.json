@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Gorisari Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "829116",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "major_offices": "Kathara SO",
+    "phone_number": "+91 92632 03514",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gorisari Store, KATHARA Man Rood Durga, Staff colony, Kathara, Bokaro, Jharkhand 829116",
+    "area": "Staff colony",
+    "latitude": 23.7704909,
+    "longitude": 85.8897356,
+    "place_id": "ChIJz4Ubpodr9DkREUmWtojDksg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4Ubpodr9DkREUmWtojDksg",
+    "part_id": "part_387",
+    "crawled_at": "2026-09-20 20:26:34"
+  }
+]
