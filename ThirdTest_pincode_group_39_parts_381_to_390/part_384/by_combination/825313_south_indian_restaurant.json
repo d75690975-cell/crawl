@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "KFC & Pizza Hut",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Food court",
+    "pincode": "825313",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "major_offices": "Daroo SO, Banahappa BO, Bedam BO",
+    "phone_number": "+91 80 4595 2845",
+    "website": "https://online.kfc.co.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Babugaon Rd, Ompuri, Hazaribagh, Jharkhand 825301",
+    "area": "Ompuri",
+    "latitude": 23.992946399999997,
+    "longitude": 85.3822002,
+    "place_id": "ChIJue5EagCd9DkRjNzQe3REtIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJue5EagCd9DkRjNzQe3REtIs",
+    "part_id": "part_384",
+    "crawled_at": "2026-09-20 20:41:47"
+  }
+]
