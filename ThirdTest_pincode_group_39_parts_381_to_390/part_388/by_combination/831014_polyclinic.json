@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Telaiya Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "831014",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Singhbhum Division",
+    "major_offices": "NIT SO",
+    "phone_number": "+91 75419 15860",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "DVC Colony, Jhumri Telaiya, Jharkhand 825409",
+    "area": "DVC Colony",
+    "latitude": 24.4349377,
+    "longitude": 85.51878239999999,
+    "place_id": "ChIJ3xir519z8zkRpoxmfT5QQNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xir519z8zkRpoxmfT5QQNw",
+    "part_id": "part_388",
+    "crawled_at": "2026-09-20 20:24:34"
+  }
+]
