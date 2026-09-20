@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Doctor",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "824208",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "AurangabadBihar Division",
+    "major_offices": "Madanpur SO AurangabadBH, Ghatrain BO, Mahuawan BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MG Rd, below hotel amit, Aurangabad, Bihar 824101",
+    "area": "824208",
+    "latitude": 24.748596,
+    "longitude": 84.3651148,
+    "place_id": "ChIJk7ROLRj9jDkRo1Kau1-vfEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk7ROLRj9jDkRo1Kau1-vfEE",
+    "part_id": "part_384",
+    "crawled_at": "2026-09-20 20:20:51"
+  }
+]
