@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "The UG Cafe and Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "814115",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Santhal Parganas Division",
+    "major_offices": "Hindipith SO",
+    "phone_number": "+91 91101 12920",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ramjus Rd, Madhupur, Jharkhand 815353",
+    "area": "814115",
+    "latitude": 24.266725599999997,
+    "longitude": 86.6453136,
+    "place_id": "ChIJQUJ3Bt838TkRue8NaOelrto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQUJ3Bt838TkRue8NaOelrto",
+    "part_id": "part_381",
+    "crawled_at": "2026-09-20 20:20:07"
+  }
+]
