@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Robinson Realty",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Service establishment",
+    "pincode": "825326",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Hazaribagh Division",
+    "major_offices": "Tapin SO",
+    "phone_number": "N/A",
+    "website": "https://robinsonrealty.com.au/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Robinson Realty, 825326, India",
+    "area": "825326",
+    "latitude": -27.9542216,
+    "longitude": 153.3693614,
+    "place_id": "ChIJXdO2660TkWsRHVoOrxW_5k8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXdO2660TkWsRHVoOrxW_5k8",
+    "part_id": "part_384",
+    "crawled_at": "2026-09-20 20:50:22"
+  }
+]
