@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Rock and Roll",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Breakfast restaurant, Non Vegetarian Restaurant, Vegetarian restaurant",
+    "pincode": "834005",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Ranchi Division",
+    "major_offices": "Hehal SO",
+    "phone_number": "+91 83402 69206",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "97JW+QCH, Ratu Rd, near bank of India, piskamor, Pahartoli, Pandra, Ranchi, Jharkhand 834005",
+    "area": "piskamor, Pahartoli",
+    "latitude": 23.3819348,
+    "longitude": 85.2961222,
+    "place_id": "ChIJFefKT7zg9DkRSFctB5Kt7Bc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFefKT7zg9DkRSFctB5Kt7Bc",
+    "part_id": "part_389",
+    "crawled_at": "2026-09-20 20:29:44"
+  }
+]

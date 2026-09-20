@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "MEDICINE 4U",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Doctor, Drug store",
+    "pincode": "834009",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Ranchi Division",
+    "major_offices": "Ranchi Medical College SO, Lame Baragaon BO, Ranchi Medical College Campus SO",
+    "phone_number": "+91 82358 15721",
+    "website": "http://medicine4u.edgeone.dev/",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "Hazaribagh Rd, Shanti Nagar, Ranchi, Jharkhand 834001",
+    "area": "Shanti Nagar",
+    "latitude": 23.3771678,
+    "longitude": 85.3583027,
+    "place_id": "ChIJ8zb9Gtnj9DkRxvGMu_mKUNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8zb9Gtnj9DkRxvGMu_mKUNY",
+    "part_id": "part_389",
+    "crawled_at": "2026-09-20 20:33:10"
+  }
+]
