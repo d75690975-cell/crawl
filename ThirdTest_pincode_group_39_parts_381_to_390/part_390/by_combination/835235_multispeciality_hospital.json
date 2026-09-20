@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Samford Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Doctor",
+    "pincode": "835235",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Ranchi Division",
+    "major_offices": "Gotra SO, Deobahar BO, Garja BO",
+    "phone_number": "+91 73600 80040",
+    "website": "http://samfordhospital.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "99H6+6FX, Hazari Bagh Rd Chowk, near Kokar, Kokar, Ranchi, Jharkhand 834001",
+    "area": "Kokar",
+    "latitude": 23.378396,
+    "longitude": 85.3610736,
+    "place_id": "ChIJxRR62Ujj9DkRYOJ-v25p1OU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxRR62Ujj9DkRYOJ-v25p1OU",
+    "part_id": "part_390",
+    "crawled_at": "2026-09-20 20:28:50"
+  }
+]

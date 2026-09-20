@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Sahil Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "835231",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Ranchi Division",
+    "major_offices": "Bishunpur SO, Adar BO, Banari BO",
+    "phone_number": "+91 81145 69101",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "001, Banari, Jharkhand 835231",
+    "area": "835231",
+    "latitude": 23.4259015,
+    "longitude": 84.33731139999999,
+    "place_id": "ChIJgcK_RtgHizkR4LoIgj8h26Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgcK_RtgHizkR4LoIgj8h26Q",
+    "part_id": "part_390",
+    "crawled_at": "2026-09-20 20:25:15"
+  }
+]
