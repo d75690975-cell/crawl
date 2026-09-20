@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "India Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "815317",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Giridih Division",
+    "major_offices": "Tisri SO, Bhandari BO, Chandouri BO",
+    "phone_number": "+91 95464 43451",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 14,
+    "address": "Gangapur, beside Adarsh College, Rajdhanwar, Jharkhand 825412",
+    "area": "815317",
+    "latitude": 24.391396999999998,
+    "longitude": 85.9510859,
+    "place_id": "ChIJuez5goLr8zkRsDKRMP2ev74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuez5goLr8zkRsDKRMP2ev74",
+    "part_id": "part_381",
+    "crawled_at": "2026-09-20 20:48:27"
+  }
+]
