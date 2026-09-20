@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Hospital",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "821307",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Rohtas Division",
+    "major_offices": "Dehrionsone SO, Dehri BMP SO, Dehri R S SO",
+    "phone_number": "+91 82104 34097",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bank Of Baroda, Mehra House, Pali Rd, Gandhi Nagar, Chhatriy Gautam, Dehri, Bihar 821307",
+    "area": "Gandhi Nagar",
+    "latitude": 24.9012149,
+    "longitude": 84.1864836,
+    "place_id": "ChIJ5WKhE-KpjTkRjDc_mAaECck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5WKhE-KpjTkRjDc_mAaECck",
+    "part_id": "part_382",
+    "crawled_at": "2026-09-20 20:45:48"
+  }
+]

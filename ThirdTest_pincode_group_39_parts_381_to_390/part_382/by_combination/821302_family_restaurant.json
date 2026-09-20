@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "The Taste Family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Family restaurant",
+    "pincode": "821302",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Rohtas Division",
+    "major_offices": "Amjhore Camp SO, Nawadih Karma BO",
+    "phone_number": "+91 62999 58834",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Malyabag, Bihar 802211",
+    "area": "821302",
+    "latitude": 25.3448402,
+    "longitude": 84.2128725,
+    "place_id": "ChIJ2abldACdjTkRcO5rzM3ZRaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2abldACdjTkRcO5rzM3ZRaY",
+    "part_id": "part_382",
+    "crawled_at": "2026-09-20 20:42:14"
+  }
+]
