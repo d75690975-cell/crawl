@@ -1510,5 +1510,29 @@
     "part_id": "part_388",
     "crawled_at": "2026-09-20 20:33:56",
     "s_no": 44993
+  },
+  {
+    "business_name": "DAVID MUSIC WORK",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "833102",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Singhbhum Division",
+    "major_offices": "Chakradharpur SO, Hurangda BO, Baipee BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near CRPF CAMP, RAKHA, Asantalia, Chakradharpur, Jharkhand 833102",
+    "area": "RAKHA",
+    "latitude": 22.6890048,
+    "longitude": 85.60285499999999,
+    "place_id": "ChIJrZ4xW7WD9TkRVgsjbh52Gwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZ4xW7WD9TkRVgsjbh52Gwg",
+    "part_id": "part_388",
+    "crawled_at": "2026-09-20 20:43:23",
+    "s_no": 59875
   }
 ]

@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Manoj Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "833213",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Singhbhum Division",
+    "major_offices": "Gua SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "4936+M7W, Barbil, Odisha 758036",
+    "area": "833213",
+    "latitude": 22.104228199999998,
+    "longitude": 85.3606937,
+    "place_id": "ChIJyU0bDau5HzoRIZPfCdNAGus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyU0bDau5HzoRIZPfCdNAGus",
+    "part_id": "part_388",
+    "crawled_at": "2026-09-20 20:48:56"
+  }
+]

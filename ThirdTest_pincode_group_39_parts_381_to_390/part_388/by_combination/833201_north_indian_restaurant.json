@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Hot and spicy food corner",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "833201",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Singhbhum Division",
+    "major_offices": "Chaibasa HO, Bari Bazar SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Tambo Chowk, Jharkhand 833201",
+    "area": "833201",
+    "latitude": 22.5363142,
+    "longitude": 85.8187703,
+    "place_id": "ChIJm5IuPAAnHjoRsbOSbpq4GcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5IuPAAnHjoRsbOSbpq4GcM",
+    "part_id": "part_388",
+    "crawled_at": "2026-09-20 20:45:58"
+  }
+]

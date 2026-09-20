@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Chai Shop",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "833204",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Singhbhum Division",
+    "major_offices": "Tekrahatu BO, DOPAI B.O., JMP Chowk SO",
+    "phone_number": "+91 78590 23876",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Block Road, Ambdiha, Majhgaon, Jharkhand 833214",
+    "area": "833204",
+    "latitude": 22.093414499999998,
+    "longitude": 85.8809737,
+    "place_id": "ChIJraqAsrJBHjoRAbBow5rff6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJraqAsrJBHjoRAbBow5rff6Q",
+    "part_id": "part_388",
+    "crawled_at": "2026-09-20 20:47:47"
+  }
+]

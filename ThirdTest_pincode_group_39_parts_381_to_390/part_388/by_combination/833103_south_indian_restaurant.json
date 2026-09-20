@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Green Resto",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "833103",
+    "circle": "Jharkhand Circle",
+    "region": "Ranchi Region",
+    "division": "Singhbhum Division",
+    "major_offices": "Goilkera SO, Bari BO, Kairam BO",
+    "phone_number": "+91 70043 89603",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 388,
+    "address": "Bhagalpur Rd, near yahama showroom, Dumka, Jharkhand 814101",
+    "area": "833103",
+    "latitude": 24.272111,
+    "longitude": 87.24581169999999,
+    "place_id": "ChIJJbqysfC38DkRTWTXVkZdFOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJbqysfC38DkRTWTXVkZdFOQ",
+    "part_id": "part_388",
+    "crawled_at": "2026-09-20 20:43:31"
+  }
+]
