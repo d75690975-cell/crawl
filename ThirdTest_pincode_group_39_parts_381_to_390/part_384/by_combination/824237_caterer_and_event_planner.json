@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Fancy Fiesta",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Event management company",
+    "pincode": "824237",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Gaya Division",
+    "major_offices": "Cherki SO, Baiju Bigha BO, Bishunpura BO",
+    "phone_number": "+91 62908 38205",
+    "website": "https://swadkahoncatering.in/menus/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "5a, Madanmohan Tala St, Sovabazar, Shobhabazar, Kolkata, West Bengal 700005",
+    "area": "Sovabazar, Shobhabazar",
+    "latitude": 22.5993638,
+    "longitude": 88.36527129999999,
+    "place_id": "ChIJ_c3WpuN3AjoREkSRrL7D14I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_c3WpuN3AjoREkSRrL7D14I",
+    "part_id": "part_384",
+    "crawled_at": "2026-09-20 20:30:30"
+  }
+]

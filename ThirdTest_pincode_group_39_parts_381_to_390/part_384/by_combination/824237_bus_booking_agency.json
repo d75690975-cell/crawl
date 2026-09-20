@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "STGT travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "824237",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "Gaya Division",
+    "major_offices": "Cherki SO, Baiju Bigha BO, Bishunpura BO",
+    "phone_number": "+91 99312 66849",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gaya - Bodhgaya Rd, Bodh Gaya, Bihar 824231",
+    "area": "824237",
+    "latitude": 24.706597199999997,
+    "longitude": 84.9946908,
+    "place_id": "ChIJhWTiaP8t8zkR9hRxO2Dwmis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWTiaP8t8zkR9hRxO2Dwmis",
+    "part_id": "part_384",
+    "crawled_at": "2026-09-20 20:30:21"
+  }
+]
