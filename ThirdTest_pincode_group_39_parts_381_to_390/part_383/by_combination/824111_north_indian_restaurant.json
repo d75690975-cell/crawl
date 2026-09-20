@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Amazing restaurant amba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "824111",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "AurangabadBihar Division",
+    "major_offices": "Amba SO, Ballia BO, Bedauli BO",
+    "phone_number": "+91 89358 41390",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 51,
+    "address": "Hariharganj - Kutumba Rd, Amba, Bihar 824111",
+    "area": "824111",
+    "latitude": 24.6249981,
+    "longitude": 84.2828262,
+    "place_id": "ChIJ3aFWD435jDkR9VPclOtagik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3aFWD435jDkR9VPclOtagik",
+    "part_id": "part_383",
+    "crawled_at": "2026-09-20 21:14:46"
+  }
+]

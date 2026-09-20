@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Sarkari Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "824122",
+    "circle": "Bihar Circle",
+    "region": "Patna HQ Region",
+    "division": "AurangabadBihar Division",
+    "major_offices": "Jakhim SO, Barahi BO, Bhadwa Bazar BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V86V+MQC, Sarsauli, Bihar 824121",
+    "area": "824122",
+    "latitude": 24.86168,
+    "longitude": 84.3443755,
+    "place_id": "ChIJl4JgOwABjTkR9ntryDcLwiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl4JgOwABjTkR9ntryDcLwiY",
+    "part_id": "part_383",
+    "crawled_at": "2026-09-20 21:20:56"
+  }
+]
